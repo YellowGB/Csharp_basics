@@ -1,0 +1,16 @@
+Z:\C#\Bases\C# Player's Guide\Level 3\Hello World!\bin\Debug\net5.0\Hello World!.exe
+Z:\C#\Bases\C# Player's Guide\Level 3\Hello World!\bin\Debug\net5.0\Hello World!.deps.json
+Z:\C#\Bases\C# Player's Guide\Level 3\Hello World!\bin\Debug\net5.0\Hello World!.runtimeconfig.json
+Z:\C#\Bases\C# Player's Guide\Level 3\Hello World!\bin\Debug\net5.0\Hello World!.runtimeconfig.dev.json
+Z:\C#\Bases\C# Player's Guide\Level 3\Hello World!\bin\Debug\net5.0\Hello World!.dll
+Z:\C#\Bases\C# Player's Guide\Level 3\Hello World!\bin\Debug\net5.0\ref\Hello World!.dll
+Z:\C#\Bases\C# Player's Guide\Level 3\Hello World!\bin\Debug\net5.0\Hello World!.pdb
+Z:\C#\Bases\C# Player's Guide\Level 3\Hello World!\obj\Debug\net5.0\Hello World!.csprojAssemblyReference.cache
+Z:\C#\Bases\C# Player's Guide\Level 3\Hello World!\obj\Debug\net5.0\Hello World!.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C#\Bases\C# Player's Guide\Level 3\Hello World!\obj\Debug\net5.0\Hello World!.AssemblyInfoInputs.cache
+Z:\C#\Bases\C# Player's Guide\Level 3\Hello World!\obj\Debug\net5.0\Hello World!.AssemblyInfo.cs
+Z:\C#\Bases\C# Player's Guide\Level 3\Hello World!\obj\Debug\net5.0\Hello World!.csproj.CoreCompileInputs.cache
+Z:\C#\Bases\C# Player's Guide\Level 3\Hello World!\obj\Debug\net5.0\Hello World!.dll
+Z:\C#\Bases\C# Player's Guide\Level 3\Hello World!\obj\Debug\net5.0\ref\Hello World!.dll
+Z:\C#\Bases\C# Player's Guide\Level 3\Hello World!\obj\Debug\net5.0\Hello World!.pdb
+Z:\C#\Bases\C# Player's Guide\Level 3\Hello World!\obj\Debug\net5.0\Hello World!.genruntimeconfig.cache
