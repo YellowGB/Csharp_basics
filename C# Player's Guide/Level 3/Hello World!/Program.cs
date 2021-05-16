@@ -1,7 +1,8 @@
 ﻿using System;
 
-Console.WriteLine("The");
-Console.WriteLine("Making");
-Console.WriteLine("of");
-Console.WriteLine("a");
-Console.WriteLine("Programmer");
+Console.WriteLine("Bread is ready");
+Console.WriteLine("Who is the bread for?");
+
+string name = Console.ReadLine();
+
+Console.WriteLine("Noted: " + name + " got bread");
