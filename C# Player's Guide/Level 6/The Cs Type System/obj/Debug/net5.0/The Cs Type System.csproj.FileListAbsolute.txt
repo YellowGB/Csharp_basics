@@ -1,0 +1,16 @@
+Z:\C#\Bases\C# Player's Guide\Level 6\The Cs Type System\bin\Debug\net5.0\The Cs Type System.exe
+Z:\C#\Bases\C# Player's Guide\Level 6\The Cs Type System\bin\Debug\net5.0\The Cs Type System.deps.json
+Z:\C#\Bases\C# Player's Guide\Level 6\The Cs Type System\bin\Debug\net5.0\The Cs Type System.runtimeconfig.json
+Z:\C#\Bases\C# Player's Guide\Level 6\The Cs Type System\bin\Debug\net5.0\The Cs Type System.runtimeconfig.dev.json
+Z:\C#\Bases\C# Player's Guide\Level 6\The Cs Type System\bin\Debug\net5.0\The Cs Type System.dll
+Z:\C#\Bases\C# Player's Guide\Level 6\The Cs Type System\bin\Debug\net5.0\ref\The Cs Type System.dll
+Z:\C#\Bases\C# Player's Guide\Level 6\The Cs Type System\bin\Debug\net5.0\The Cs Type System.pdb
+Z:\C#\Bases\C# Player's Guide\Level 6\The Cs Type System\obj\Debug\net5.0\The Cs Type System.csprojAssemblyReference.cache
+Z:\C#\Bases\C# Player's Guide\Level 6\The Cs Type System\obj\Debug\net5.0\The Cs Type System.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C#\Bases\C# Player's Guide\Level 6\The Cs Type System\obj\Debug\net5.0\The Cs Type System.AssemblyInfoInputs.cache
+Z:\C#\Bases\C# Player's Guide\Level 6\The Cs Type System\obj\Debug\net5.0\The Cs Type System.AssemblyInfo.cs
+Z:\C#\Bases\C# Player's Guide\Level 6\The Cs Type System\obj\Debug\net5.0\The Cs Type System.csproj.CoreCompileInputs.cache
+Z:\C#\Bases\C# Player's Guide\Level 6\The Cs Type System\obj\Debug\net5.0\The Cs Type System.dll
+Z:\C#\Bases\C# Player's Guide\Level 6\The Cs Type System\obj\Debug\net5.0\ref\The Cs Type System.dll
+Z:\C#\Bases\C# Player's Guide\Level 6\The Cs Type System\obj\Debug\net5.0\The Cs Type System.pdb
+Z:\C#\Bases\C# Player's Guide\Level 6\The Cs Type System\obj\Debug\net5.0\The Cs Type System.genruntimeconfig.cache
