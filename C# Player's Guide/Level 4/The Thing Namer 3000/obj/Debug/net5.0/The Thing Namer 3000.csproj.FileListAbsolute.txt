@@ -1,0 +1,16 @@
+Z:\C#\Bases\C# Player's Guide\Level 4\The Thing Namer 3000\bin\Debug\net5.0\The Thing Namer 3000.exe
+Z:\C#\Bases\C# Player's Guide\Level 4\The Thing Namer 3000\bin\Debug\net5.0\The Thing Namer 3000.deps.json
+Z:\C#\Bases\C# Player's Guide\Level 4\The Thing Namer 3000\bin\Debug\net5.0\The Thing Namer 3000.runtimeconfig.json
+Z:\C#\Bases\C# Player's Guide\Level 4\The Thing Namer 3000\bin\Debug\net5.0\The Thing Namer 3000.runtimeconfig.dev.json
+Z:\C#\Bases\C# Player's Guide\Level 4\The Thing Namer 3000\bin\Debug\net5.0\The Thing Namer 3000.dll
+Z:\C#\Bases\C# Player's Guide\Level 4\The Thing Namer 3000\bin\Debug\net5.0\ref\The Thing Namer 3000.dll
+Z:\C#\Bases\C# Player's Guide\Level 4\The Thing Namer 3000\bin\Debug\net5.0\The Thing Namer 3000.pdb
+Z:\C#\Bases\C# Player's Guide\Level 4\The Thing Namer 3000\obj\Debug\net5.0\The Thing Namer 3000.csprojAssemblyReference.cache
+Z:\C#\Bases\C# Player's Guide\Level 4\The Thing Namer 3000\obj\Debug\net5.0\The Thing Namer 3000.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C#\Bases\C# Player's Guide\Level 4\The Thing Namer 3000\obj\Debug\net5.0\The Thing Namer 3000.AssemblyInfoInputs.cache
+Z:\C#\Bases\C# Player's Guide\Level 4\The Thing Namer 3000\obj\Debug\net5.0\The Thing Namer 3000.AssemblyInfo.cs
+Z:\C#\Bases\C# Player's Guide\Level 4\The Thing Namer 3000\obj\Debug\net5.0\The Thing Namer 3000.csproj.CoreCompileInputs.cache
+Z:\C#\Bases\C# Player's Guide\Level 4\The Thing Namer 3000\obj\Debug\net5.0\The Thing Namer 3000.dll
+Z:\C#\Bases\C# Player's Guide\Level 4\The Thing Namer 3000\obj\Debug\net5.0\ref\The Thing Namer 3000.dll
+Z:\C#\Bases\C# Player's Guide\Level 4\The Thing Namer 3000\obj\Debug\net5.0\The Thing Namer 3000.pdb
+Z:\C#\Bases\C# Player's Guide\Level 4\The Thing Namer 3000\obj\Debug\net5.0\The Thing Namer 3000.genruntimeconfig.cache
