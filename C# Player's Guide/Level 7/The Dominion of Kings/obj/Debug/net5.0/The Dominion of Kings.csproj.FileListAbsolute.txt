@@ -1,0 +1,16 @@
+Z:\C#\Bases\C# Player's Guide\Level 7\The Dominion of Kings\bin\Debug\net5.0\The Dominion of Kings.exe
+Z:\C#\Bases\C# Player's Guide\Level 7\The Dominion of Kings\bin\Debug\net5.0\The Dominion of Kings.deps.json
+Z:\C#\Bases\C# Player's Guide\Level 7\The Dominion of Kings\bin\Debug\net5.0\The Dominion of Kings.runtimeconfig.json
+Z:\C#\Bases\C# Player's Guide\Level 7\The Dominion of Kings\bin\Debug\net5.0\The Dominion of Kings.runtimeconfig.dev.json
+Z:\C#\Bases\C# Player's Guide\Level 7\The Dominion of Kings\bin\Debug\net5.0\The Dominion of Kings.dll
+Z:\C#\Bases\C# Player's Guide\Level 7\The Dominion of Kings\bin\Debug\net5.0\ref\The Dominion of Kings.dll
+Z:\C#\Bases\C# Player's Guide\Level 7\The Dominion of Kings\bin\Debug\net5.0\The Dominion of Kings.pdb
+Z:\C#\Bases\C# Player's Guide\Level 7\The Dominion of Kings\obj\Debug\net5.0\The Dominion of Kings.csprojAssemblyReference.cache
+Z:\C#\Bases\C# Player's Guide\Level 7\The Dominion of Kings\obj\Debug\net5.0\The Dominion of Kings.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C#\Bases\C# Player's Guide\Level 7\The Dominion of Kings\obj\Debug\net5.0\The Dominion of Kings.AssemblyInfoInputs.cache
+Z:\C#\Bases\C# Player's Guide\Level 7\The Dominion of Kings\obj\Debug\net5.0\The Dominion of Kings.AssemblyInfo.cs
+Z:\C#\Bases\C# Player's Guide\Level 7\The Dominion of Kings\obj\Debug\net5.0\The Dominion of Kings.csproj.CoreCompileInputs.cache
+Z:\C#\Bases\C# Player's Guide\Level 7\The Dominion of Kings\obj\Debug\net5.0\The Dominion of Kings.dll
+Z:\C#\Bases\C# Player's Guide\Level 7\The Dominion of Kings\obj\Debug\net5.0\ref\The Dominion of Kings.dll
+Z:\C#\Bases\C# Player's Guide\Level 7\The Dominion of Kings\obj\Debug\net5.0\The Dominion of Kings.pdb
+Z:\C#\Bases\C# Player's Guide\Level 7\The Dominion of Kings\obj\Debug\net5.0\The Dominion of Kings.genruntimeconfig.cache

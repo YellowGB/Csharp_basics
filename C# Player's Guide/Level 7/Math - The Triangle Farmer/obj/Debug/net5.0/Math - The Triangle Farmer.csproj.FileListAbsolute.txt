@@ -1,0 +1,16 @@
+Z:\C#\Bases\C# Player's Guide\Level 7\Math - The Triangle Farmer\bin\Debug\net5.0\Math - The Triangle Farmer.exe
+Z:\C#\Bases\C# Player's Guide\Level 7\Math - The Triangle Farmer\bin\Debug\net5.0\Math - The Triangle Farmer.deps.json
+Z:\C#\Bases\C# Player's Guide\Level 7\Math - The Triangle Farmer\bin\Debug\net5.0\Math - The Triangle Farmer.runtimeconfig.json
+Z:\C#\Bases\C# Player's Guide\Level 7\Math - The Triangle Farmer\bin\Debug\net5.0\Math - The Triangle Farmer.runtimeconfig.dev.json
+Z:\C#\Bases\C# Player's Guide\Level 7\Math - The Triangle Farmer\bin\Debug\net5.0\Math - The Triangle Farmer.dll
+Z:\C#\Bases\C# Player's Guide\Level 7\Math - The Triangle Farmer\bin\Debug\net5.0\ref\Math - The Triangle Farmer.dll
+Z:\C#\Bases\C# Player's Guide\Level 7\Math - The Triangle Farmer\bin\Debug\net5.0\Math - The Triangle Farmer.pdb
+Z:\C#\Bases\C# Player's Guide\Level 7\Math - The Triangle Farmer\obj\Debug\net5.0\Math - The Triangle Farmer.csprojAssemblyReference.cache
+Z:\C#\Bases\C# Player's Guide\Level 7\Math - The Triangle Farmer\obj\Debug\net5.0\Math - The Triangle Farmer.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C#\Bases\C# Player's Guide\Level 7\Math - The Triangle Farmer\obj\Debug\net5.0\Math - The Triangle Farmer.AssemblyInfoInputs.cache
+Z:\C#\Bases\C# Player's Guide\Level 7\Math - The Triangle Farmer\obj\Debug\net5.0\Math - The Triangle Farmer.AssemblyInfo.cs
+Z:\C#\Bases\C# Player's Guide\Level 7\Math - The Triangle Farmer\obj\Debug\net5.0\Math - The Triangle Farmer.csproj.CoreCompileInputs.cache
+Z:\C#\Bases\C# Player's Guide\Level 7\Math - The Triangle Farmer\obj\Debug\net5.0\Math - The Triangle Farmer.dll
+Z:\C#\Bases\C# Player's Guide\Level 7\Math - The Triangle Farmer\obj\Debug\net5.0\ref\Math - The Triangle Farmer.dll
+Z:\C#\Bases\C# Player's Guide\Level 7\Math - The Triangle Farmer\obj\Debug\net5.0\Math - The Triangle Farmer.pdb
+Z:\C#\Bases\C# Player's Guide\Level 7\Math - The Triangle Farmer\obj\Debug\net5.0\Math - The Triangle Farmer.genruntimeconfig.cache
