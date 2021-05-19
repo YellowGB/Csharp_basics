@@ -10,10 +10,11 @@
     Canidou, leur animal de compagnie.
 
     Objectif:
-    - Créer un programme qui laisse l'utilisateur entrer le nombre d'oeufs en chocolat réclotés ce jour.
+    - Créer un programme qui laisse l'utilisateur entrer le nombre d'oeufs en chocolat récoltés ce jour.
     - En utilisant / et %, calculer combien d'oeufs chaque soeur devrait recevoir et combien en reste-t-il pour Canidou.
     - Répondre à cette question : Quels sont les trois quantité d'oeufs où Canidou reçoit plus que ce que reçoit chaque soeur ?
 */
+
 Console.WriteLine("Combien d'oeufs en chocolat récoltés aujourd'hui ?");
 int eggs = Convert.ToInt32(Console.ReadLine());
 
