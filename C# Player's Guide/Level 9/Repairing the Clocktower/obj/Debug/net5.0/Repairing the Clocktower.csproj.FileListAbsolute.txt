@@ -1,0 +1,16 @@
+Z:\C#\Bases\C# Player's Guide\Level 9\Repairing the Clocktower\bin\Debug\net5.0\Repairing the Clocktower.exe
+Z:\C#\Bases\C# Player's Guide\Level 9\Repairing the Clocktower\bin\Debug\net5.0\Repairing the Clocktower.deps.json
+Z:\C#\Bases\C# Player's Guide\Level 9\Repairing the Clocktower\bin\Debug\net5.0\Repairing the Clocktower.runtimeconfig.json
+Z:\C#\Bases\C# Player's Guide\Level 9\Repairing the Clocktower\bin\Debug\net5.0\Repairing the Clocktower.runtimeconfig.dev.json
+Z:\C#\Bases\C# Player's Guide\Level 9\Repairing the Clocktower\bin\Debug\net5.0\Repairing the Clocktower.dll
+Z:\C#\Bases\C# Player's Guide\Level 9\Repairing the Clocktower\bin\Debug\net5.0\ref\Repairing the Clocktower.dll
+Z:\C#\Bases\C# Player's Guide\Level 9\Repairing the Clocktower\bin\Debug\net5.0\Repairing the Clocktower.pdb
+Z:\C#\Bases\C# Player's Guide\Level 9\Repairing the Clocktower\obj\Debug\net5.0\Repairing the Clocktower.csprojAssemblyReference.cache
+Z:\C#\Bases\C# Player's Guide\Level 9\Repairing the Clocktower\obj\Debug\net5.0\Repairing the Clocktower.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C#\Bases\C# Player's Guide\Level 9\Repairing the Clocktower\obj\Debug\net5.0\Repairing the Clocktower.AssemblyInfoInputs.cache
+Z:\C#\Bases\C# Player's Guide\Level 9\Repairing the Clocktower\obj\Debug\net5.0\Repairing the Clocktower.AssemblyInfo.cs
+Z:\C#\Bases\C# Player's Guide\Level 9\Repairing the Clocktower\obj\Debug\net5.0\Repairing the Clocktower.csproj.CoreCompileInputs.cache
+Z:\C#\Bases\C# Player's Guide\Level 9\Repairing the Clocktower\obj\Debug\net5.0\Repairing the Clocktower.dll
+Z:\C#\Bases\C# Player's Guide\Level 9\Repairing the Clocktower\obj\Debug\net5.0\ref\Repairing the Clocktower.dll
+Z:\C#\Bases\C# Player's Guide\Level 9\Repairing the Clocktower\obj\Debug\net5.0\Repairing the Clocktower.pdb
+Z:\C#\Bases\C# Player's Guide\Level 9\Repairing the Clocktower\obj\Debug\net5.0\Repairing the Clocktower.genruntimeconfig.cache
