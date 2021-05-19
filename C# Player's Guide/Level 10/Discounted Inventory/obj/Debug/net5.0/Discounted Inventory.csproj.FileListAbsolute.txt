@@ -1,0 +1,16 @@
+Z:\C#\Bases\C# Player's Guide\Level 10\Discounted Inventory\bin\Debug\net5.0\Discounted Inventory.exe
+Z:\C#\Bases\C# Player's Guide\Level 10\Discounted Inventory\bin\Debug\net5.0\Discounted Inventory.deps.json
+Z:\C#\Bases\C# Player's Guide\Level 10\Discounted Inventory\bin\Debug\net5.0\Discounted Inventory.runtimeconfig.json
+Z:\C#\Bases\C# Player's Guide\Level 10\Discounted Inventory\bin\Debug\net5.0\Discounted Inventory.runtimeconfig.dev.json
+Z:\C#\Bases\C# Player's Guide\Level 10\Discounted Inventory\bin\Debug\net5.0\Discounted Inventory.dll
+Z:\C#\Bases\C# Player's Guide\Level 10\Discounted Inventory\bin\Debug\net5.0\ref\Discounted Inventory.dll
+Z:\C#\Bases\C# Player's Guide\Level 10\Discounted Inventory\bin\Debug\net5.0\Discounted Inventory.pdb
+Z:\C#\Bases\C# Player's Guide\Level 10\Discounted Inventory\obj\Debug\net5.0\Discounted Inventory.csprojAssemblyReference.cache
+Z:\C#\Bases\C# Player's Guide\Level 10\Discounted Inventory\obj\Debug\net5.0\Discounted Inventory.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C#\Bases\C# Player's Guide\Level 10\Discounted Inventory\obj\Debug\net5.0\Discounted Inventory.AssemblyInfoInputs.cache
+Z:\C#\Bases\C# Player's Guide\Level 10\Discounted Inventory\obj\Debug\net5.0\Discounted Inventory.AssemblyInfo.cs
+Z:\C#\Bases\C# Player's Guide\Level 10\Discounted Inventory\obj\Debug\net5.0\Discounted Inventory.csproj.CoreCompileInputs.cache
+Z:\C#\Bases\C# Player's Guide\Level 10\Discounted Inventory\obj\Debug\net5.0\Discounted Inventory.dll
+Z:\C#\Bases\C# Player's Guide\Level 10\Discounted Inventory\obj\Debug\net5.0\ref\Discounted Inventory.dll
+Z:\C#\Bases\C# Player's Guide\Level 10\Discounted Inventory\obj\Debug\net5.0\Discounted Inventory.pdb
+Z:\C#\Bases\C# Player's Guide\Level 10\Discounted Inventory\obj\Debug\net5.0\Discounted Inventory.genruntimeconfig.cache

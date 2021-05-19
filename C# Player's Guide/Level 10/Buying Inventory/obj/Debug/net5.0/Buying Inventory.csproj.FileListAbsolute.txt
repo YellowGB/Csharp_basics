@@ -1,0 +1,16 @@
+Z:\C#\Bases\C# Player's Guide\Level 10\Buying Inventory\bin\Debug\net5.0\Buying Inventory.exe
+Z:\C#\Bases\C# Player's Guide\Level 10\Buying Inventory\bin\Debug\net5.0\Buying Inventory.deps.json
+Z:\C#\Bases\C# Player's Guide\Level 10\Buying Inventory\bin\Debug\net5.0\Buying Inventory.runtimeconfig.json
+Z:\C#\Bases\C# Player's Guide\Level 10\Buying Inventory\bin\Debug\net5.0\Buying Inventory.runtimeconfig.dev.json
+Z:\C#\Bases\C# Player's Guide\Level 10\Buying Inventory\bin\Debug\net5.0\Buying Inventory.dll
+Z:\C#\Bases\C# Player's Guide\Level 10\Buying Inventory\bin\Debug\net5.0\ref\Buying Inventory.dll
+Z:\C#\Bases\C# Player's Guide\Level 10\Buying Inventory\bin\Debug\net5.0\Buying Inventory.pdb
+Z:\C#\Bases\C# Player's Guide\Level 10\Buying Inventory\obj\Debug\net5.0\Buying Inventory.csprojAssemblyReference.cache
+Z:\C#\Bases\C# Player's Guide\Level 10\Buying Inventory\obj\Debug\net5.0\Buying Inventory.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C#\Bases\C# Player's Guide\Level 10\Buying Inventory\obj\Debug\net5.0\Buying Inventory.AssemblyInfoInputs.cache
+Z:\C#\Bases\C# Player's Guide\Level 10\Buying Inventory\obj\Debug\net5.0\Buying Inventory.AssemblyInfo.cs
+Z:\C#\Bases\C# Player's Guide\Level 10\Buying Inventory\obj\Debug\net5.0\Buying Inventory.csproj.CoreCompileInputs.cache
+Z:\C#\Bases\C# Player's Guide\Level 10\Buying Inventory\obj\Debug\net5.0\Buying Inventory.dll
+Z:\C#\Bases\C# Player's Guide\Level 10\Buying Inventory\obj\Debug\net5.0\ref\Buying Inventory.dll
+Z:\C#\Bases\C# Player's Guide\Level 10\Buying Inventory\obj\Debug\net5.0\Buying Inventory.pdb
+Z:\C#\Bases\C# Player's Guide\Level 10\Buying Inventory\obj\Debug\net5.0\Buying Inventory.genruntimeconfig.cache
