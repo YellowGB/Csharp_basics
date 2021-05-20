@@ -1,0 +1,16 @@
+Z:\C#\Bases\C# Player's Guide\Level 13\Taking a Number\bin\Debug\net5.0\Taking a Number.exe
+Z:\C#\Bases\C# Player's Guide\Level 13\Taking a Number\bin\Debug\net5.0\Taking a Number.deps.json
+Z:\C#\Bases\C# Player's Guide\Level 13\Taking a Number\bin\Debug\net5.0\Taking a Number.runtimeconfig.json
+Z:\C#\Bases\C# Player's Guide\Level 13\Taking a Number\bin\Debug\net5.0\Taking a Number.runtimeconfig.dev.json
+Z:\C#\Bases\C# Player's Guide\Level 13\Taking a Number\bin\Debug\net5.0\Taking a Number.dll
+Z:\C#\Bases\C# Player's Guide\Level 13\Taking a Number\bin\Debug\net5.0\ref\Taking a Number.dll
+Z:\C#\Bases\C# Player's Guide\Level 13\Taking a Number\bin\Debug\net5.0\Taking a Number.pdb
+Z:\C#\Bases\C# Player's Guide\Level 13\Taking a Number\obj\Debug\net5.0\Taking a Number.csprojAssemblyReference.cache
+Z:\C#\Bases\C# Player's Guide\Level 13\Taking a Number\obj\Debug\net5.0\Taking a Number.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C#\Bases\C# Player's Guide\Level 13\Taking a Number\obj\Debug\net5.0\Taking a Number.AssemblyInfoInputs.cache
+Z:\C#\Bases\C# Player's Guide\Level 13\Taking a Number\obj\Debug\net5.0\Taking a Number.AssemblyInfo.cs
+Z:\C#\Bases\C# Player's Guide\Level 13\Taking a Number\obj\Debug\net5.0\Taking a Number.csproj.CoreCompileInputs.cache
+Z:\C#\Bases\C# Player's Guide\Level 13\Taking a Number\obj\Debug\net5.0\Taking a Number.dll
+Z:\C#\Bases\C# Player's Guide\Level 13\Taking a Number\obj\Debug\net5.0\ref\Taking a Number.dll
+Z:\C#\Bases\C# Player's Guide\Level 13\Taking a Number\obj\Debug\net5.0\Taking a Number.pdb
+Z:\C#\Bases\C# Player's Guide\Level 13\Taking a Number\obj\Debug\net5.0\Taking a Number.genruntimeconfig.cache
