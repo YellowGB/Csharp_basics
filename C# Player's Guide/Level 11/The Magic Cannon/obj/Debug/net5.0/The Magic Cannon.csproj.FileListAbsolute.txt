@@ -1,0 +1,16 @@
+Z:\C#\Bases\C# Player's Guide\Level 11\The Magic Cannon\bin\Debug\net5.0\The Magic Cannon.exe
+Z:\C#\Bases\C# Player's Guide\Level 11\The Magic Cannon\bin\Debug\net5.0\The Magic Cannon.deps.json
+Z:\C#\Bases\C# Player's Guide\Level 11\The Magic Cannon\bin\Debug\net5.0\The Magic Cannon.runtimeconfig.json
+Z:\C#\Bases\C# Player's Guide\Level 11\The Magic Cannon\bin\Debug\net5.0\The Magic Cannon.runtimeconfig.dev.json
+Z:\C#\Bases\C# Player's Guide\Level 11\The Magic Cannon\bin\Debug\net5.0\The Magic Cannon.dll
+Z:\C#\Bases\C# Player's Guide\Level 11\The Magic Cannon\bin\Debug\net5.0\ref\The Magic Cannon.dll
+Z:\C#\Bases\C# Player's Guide\Level 11\The Magic Cannon\bin\Debug\net5.0\The Magic Cannon.pdb
+Z:\C#\Bases\C# Player's Guide\Level 11\The Magic Cannon\obj\Debug\net5.0\The Magic Cannon.csprojAssemblyReference.cache
+Z:\C#\Bases\C# Player's Guide\Level 11\The Magic Cannon\obj\Debug\net5.0\The Magic Cannon.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C#\Bases\C# Player's Guide\Level 11\The Magic Cannon\obj\Debug\net5.0\The Magic Cannon.AssemblyInfoInputs.cache
+Z:\C#\Bases\C# Player's Guide\Level 11\The Magic Cannon\obj\Debug\net5.0\The Magic Cannon.AssemblyInfo.cs
+Z:\C#\Bases\C# Player's Guide\Level 11\The Magic Cannon\obj\Debug\net5.0\The Magic Cannon.csproj.CoreCompileInputs.cache
+Z:\C#\Bases\C# Player's Guide\Level 11\The Magic Cannon\obj\Debug\net5.0\The Magic Cannon.dll
+Z:\C#\Bases\C# Player's Guide\Level 11\The Magic Cannon\obj\Debug\net5.0\ref\The Magic Cannon.dll
+Z:\C#\Bases\C# Player's Guide\Level 11\The Magic Cannon\obj\Debug\net5.0\The Magic Cannon.pdb
+Z:\C#\Bases\C# Player's Guide\Level 11\The Magic Cannon\obj\Debug\net5.0\The Magic Cannon.genruntimeconfig.cache

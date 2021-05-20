@@ -1,0 +1,16 @@
+Z:\C#\Bases\C# Player's Guide\Level 11\The Prototype\bin\Debug\net5.0\The Prototype.exe
+Z:\C#\Bases\C# Player's Guide\Level 11\The Prototype\bin\Debug\net5.0\The Prototype.deps.json
+Z:\C#\Bases\C# Player's Guide\Level 11\The Prototype\bin\Debug\net5.0\The Prototype.runtimeconfig.json
+Z:\C#\Bases\C# Player's Guide\Level 11\The Prototype\bin\Debug\net5.0\The Prototype.runtimeconfig.dev.json
+Z:\C#\Bases\C# Player's Guide\Level 11\The Prototype\bin\Debug\net5.0\The Prototype.dll
+Z:\C#\Bases\C# Player's Guide\Level 11\The Prototype\bin\Debug\net5.0\ref\The Prototype.dll
+Z:\C#\Bases\C# Player's Guide\Level 11\The Prototype\bin\Debug\net5.0\The Prototype.pdb
+Z:\C#\Bases\C# Player's Guide\Level 11\The Prototype\obj\Debug\net5.0\The Prototype.csprojAssemblyReference.cache
+Z:\C#\Bases\C# Player's Guide\Level 11\The Prototype\obj\Debug\net5.0\The Prototype.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C#\Bases\C# Player's Guide\Level 11\The Prototype\obj\Debug\net5.0\The Prototype.AssemblyInfoInputs.cache
+Z:\C#\Bases\C# Player's Guide\Level 11\The Prototype\obj\Debug\net5.0\The Prototype.AssemblyInfo.cs
+Z:\C#\Bases\C# Player's Guide\Level 11\The Prototype\obj\Debug\net5.0\The Prototype.csproj.CoreCompileInputs.cache
+Z:\C#\Bases\C# Player's Guide\Level 11\The Prototype\obj\Debug\net5.0\The Prototype.dll
+Z:\C#\Bases\C# Player's Guide\Level 11\The Prototype\obj\Debug\net5.0\ref\The Prototype.dll
+Z:\C#\Bases\C# Player's Guide\Level 11\The Prototype\obj\Debug\net5.0\The Prototype.pdb
+Z:\C#\Bases\C# Player's Guide\Level 11\The Prototype\obj\Debug\net5.0\The Prototype.genruntimeconfig.cache
