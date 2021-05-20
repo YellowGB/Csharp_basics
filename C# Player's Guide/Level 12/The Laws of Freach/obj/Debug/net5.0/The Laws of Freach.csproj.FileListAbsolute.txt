@@ -1,0 +1,16 @@
+Z:\C#\Bases\C# Player's Guide\Level 12\The Laws of Freach\bin\Debug\net5.0\The Laws of Freach.exe
+Z:\C#\Bases\C# Player's Guide\Level 12\The Laws of Freach\bin\Debug\net5.0\The Laws of Freach.deps.json
+Z:\C#\Bases\C# Player's Guide\Level 12\The Laws of Freach\bin\Debug\net5.0\The Laws of Freach.runtimeconfig.json
+Z:\C#\Bases\C# Player's Guide\Level 12\The Laws of Freach\bin\Debug\net5.0\The Laws of Freach.runtimeconfig.dev.json
+Z:\C#\Bases\C# Player's Guide\Level 12\The Laws of Freach\bin\Debug\net5.0\The Laws of Freach.dll
+Z:\C#\Bases\C# Player's Guide\Level 12\The Laws of Freach\bin\Debug\net5.0\ref\The Laws of Freach.dll
+Z:\C#\Bases\C# Player's Guide\Level 12\The Laws of Freach\bin\Debug\net5.0\The Laws of Freach.pdb
+Z:\C#\Bases\C# Player's Guide\Level 12\The Laws of Freach\obj\Debug\net5.0\The Laws of Freach.csprojAssemblyReference.cache
+Z:\C#\Bases\C# Player's Guide\Level 12\The Laws of Freach\obj\Debug\net5.0\The Laws of Freach.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C#\Bases\C# Player's Guide\Level 12\The Laws of Freach\obj\Debug\net5.0\The Laws of Freach.AssemblyInfoInputs.cache
+Z:\C#\Bases\C# Player's Guide\Level 12\The Laws of Freach\obj\Debug\net5.0\The Laws of Freach.AssemblyInfo.cs
+Z:\C#\Bases\C# Player's Guide\Level 12\The Laws of Freach\obj\Debug\net5.0\The Laws of Freach.csproj.CoreCompileInputs.cache
+Z:\C#\Bases\C# Player's Guide\Level 12\The Laws of Freach\obj\Debug\net5.0\The Laws of Freach.dll
+Z:\C#\Bases\C# Player's Guide\Level 12\The Laws of Freach\obj\Debug\net5.0\ref\The Laws of Freach.dll
+Z:\C#\Bases\C# Player's Guide\Level 12\The Laws of Freach\obj\Debug\net5.0\The Laws of Freach.pdb
+Z:\C#\Bases\C# Player's Guide\Level 12\The Laws of Freach\obj\Debug\net5.0\The Laws of Freach.genruntimeconfig.cache
