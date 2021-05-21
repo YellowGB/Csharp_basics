@@ -1,0 +1,16 @@
+Z:\C#\Bases\C# Player's Guide\Level 14\Hunting the Manticore\bin\Debug\net5.0\Hunting the Manticore.exe
+Z:\C#\Bases\C# Player's Guide\Level 14\Hunting the Manticore\bin\Debug\net5.0\Hunting the Manticore.deps.json
+Z:\C#\Bases\C# Player's Guide\Level 14\Hunting the Manticore\bin\Debug\net5.0\Hunting the Manticore.runtimeconfig.json
+Z:\C#\Bases\C# Player's Guide\Level 14\Hunting the Manticore\bin\Debug\net5.0\Hunting the Manticore.runtimeconfig.dev.json
+Z:\C#\Bases\C# Player's Guide\Level 14\Hunting the Manticore\bin\Debug\net5.0\Hunting the Manticore.dll
+Z:\C#\Bases\C# Player's Guide\Level 14\Hunting the Manticore\bin\Debug\net5.0\ref\Hunting the Manticore.dll
+Z:\C#\Bases\C# Player's Guide\Level 14\Hunting the Manticore\bin\Debug\net5.0\Hunting the Manticore.pdb
+Z:\C#\Bases\C# Player's Guide\Level 14\Hunting the Manticore\obj\Debug\net5.0\Hunting the Manticore.csprojAssemblyReference.cache
+Z:\C#\Bases\C# Player's Guide\Level 14\Hunting the Manticore\obj\Debug\net5.0\Hunting the Manticore.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C#\Bases\C# Player's Guide\Level 14\Hunting the Manticore\obj\Debug\net5.0\Hunting the Manticore.AssemblyInfoInputs.cache
+Z:\C#\Bases\C# Player's Guide\Level 14\Hunting the Manticore\obj\Debug\net5.0\Hunting the Manticore.AssemblyInfo.cs
+Z:\C#\Bases\C# Player's Guide\Level 14\Hunting the Manticore\obj\Debug\net5.0\Hunting the Manticore.csproj.CoreCompileInputs.cache
+Z:\C#\Bases\C# Player's Guide\Level 14\Hunting the Manticore\obj\Debug\net5.0\Hunting the Manticore.dll
+Z:\C#\Bases\C# Player's Guide\Level 14\Hunting the Manticore\obj\Debug\net5.0\ref\Hunting the Manticore.dll
+Z:\C#\Bases\C# Player's Guide\Level 14\Hunting the Manticore\obj\Debug\net5.0\Hunting the Manticore.pdb
+Z:\C#\Bases\C# Player's Guide\Level 14\Hunting the Manticore\obj\Debug\net5.0\Hunting the Manticore.genruntimeconfig.cache
