@@ -5,7 +5,6 @@ Z:\C#\Bases\C# Player's Guide\Level 7\Math - The Four Sisters and the Duckbear\b
 Z:\C#\Bases\C# Player's Guide\Level 7\Math - The Four Sisters and the Duckbear\bin\Debug\net5.0\Math - The Four Sisters and the Duckbear.dll
 Z:\C#\Bases\C# Player's Guide\Level 7\Math - The Four Sisters and the Duckbear\bin\Debug\net5.0\ref\Math - The Four Sisters and the Duckbear.dll
 Z:\C#\Bases\C# Player's Guide\Level 7\Math - The Four Sisters and the Duckbear\bin\Debug\net5.0\Math - The Four Sisters and the Duckbear.pdb
-Z:\C#\Bases\C# Player's Guide\Level 7\Math - The Four Sisters and the Duckbear\obj\Debug\net5.0\Math - The Four Sisters and the Duckbear.csprojAssemblyReference.cache
 Z:\C#\Bases\C# Player's Guide\Level 7\Math - The Four Sisters and the Duckbear\obj\Debug\net5.0\Math - The Four Sisters and the Duckbear.GeneratedMSBuildEditorConfig.editorconfig
 Z:\C#\Bases\C# Player's Guide\Level 7\Math - The Four Sisters and the Duckbear\obj\Debug\net5.0\Math - The Four Sisters and the Duckbear.AssemblyInfoInputs.cache
 Z:\C#\Bases\C# Player's Guide\Level 7\Math - The Four Sisters and the Duckbear\obj\Debug\net5.0\Math - The Four Sisters and the Duckbear.AssemblyInfo.cs
@@ -14,3 +13,4 @@ Z:\C#\Bases\C# Player's Guide\Level 7\Math - The Four Sisters and the Duckbear\o
 Z:\C#\Bases\C# Player's Guide\Level 7\Math - The Four Sisters and the Duckbear\obj\Debug\net5.0\ref\Math - The Four Sisters and the Duckbear.dll
 Z:\C#\Bases\C# Player's Guide\Level 7\Math - The Four Sisters and the Duckbear\obj\Debug\net5.0\Math - The Four Sisters and the Duckbear.pdb
 Z:\C#\Bases\C# Player's Guide\Level 7\Math - The Four Sisters and the Duckbear\obj\Debug\net5.0\Math - The Four Sisters and the Duckbear.genruntimeconfig.cache
+Z:\C#\Bases\C# Player's Guide\Level 7\Math - The Four Sisters and the Duckbear\obj\Debug\net5.0\Math - The Four Sisters and the Duckbear.csproj.AssemblyReference.cache

@@ -1,0 +1,16 @@
+Z:\C#\Bases\Cours de Xavier\PremierProjet\bin\Debug\net5.0\PremierProjet.exe
+Z:\C#\Bases\Cours de Xavier\PremierProjet\bin\Debug\net5.0\PremierProjet.deps.json
+Z:\C#\Bases\Cours de Xavier\PremierProjet\bin\Debug\net5.0\PremierProjet.runtimeconfig.json
+Z:\C#\Bases\Cours de Xavier\PremierProjet\bin\Debug\net5.0\PremierProjet.runtimeconfig.dev.json
+Z:\C#\Bases\Cours de Xavier\PremierProjet\bin\Debug\net5.0\PremierProjet.dll
+Z:\C#\Bases\Cours de Xavier\PremierProjet\bin\Debug\net5.0\ref\PremierProjet.dll
+Z:\C#\Bases\Cours de Xavier\PremierProjet\bin\Debug\net5.0\PremierProjet.pdb
+Z:\C#\Bases\Cours de Xavier\PremierProjet\obj\Debug\net5.0\PremierProjet.csproj.AssemblyReference.cache
+Z:\C#\Bases\Cours de Xavier\PremierProjet\obj\Debug\net5.0\PremierProjet.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C#\Bases\Cours de Xavier\PremierProjet\obj\Debug\net5.0\PremierProjet.AssemblyInfoInputs.cache
+Z:\C#\Bases\Cours de Xavier\PremierProjet\obj\Debug\net5.0\PremierProjet.AssemblyInfo.cs
+Z:\C#\Bases\Cours de Xavier\PremierProjet\obj\Debug\net5.0\PremierProjet.csproj.CoreCompileInputs.cache
+Z:\C#\Bases\Cours de Xavier\PremierProjet\obj\Debug\net5.0\PremierProjet.dll
+Z:\C#\Bases\Cours de Xavier\PremierProjet\obj\Debug\net5.0\ref\PremierProjet.dll
+Z:\C#\Bases\Cours de Xavier\PremierProjet\obj\Debug\net5.0\PremierProjet.pdb
+Z:\C#\Bases\Cours de Xavier\PremierProjet\obj\Debug\net5.0\PremierProjet.genruntimeconfig.cache
