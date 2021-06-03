@@ -38,7 +38,7 @@ namespace PremierProjet
             int monTirage = aleatoire.Next(1, 30);
             Console.WriteLine(monTirage);
 
-            // Fonctions de chaînes de caractères (string, char)
+            // Fonctions de chaînes de caractères (string, char), classe String
             string maChaine = "Bonjour les gars.";
             // longueur de la chaîne
             int longueurChaine = maChaine.Length;
@@ -74,6 +74,39 @@ namespace PremierProjet
             string maListe = "Eric,Thierry,Coralie,Paul,Chantale";
             string[] tabPrenom = maListe.Split(',');
             Console.WriteLine(tabPrenom[3]);
+
+            // Fonctions de la classe Array
+            int longueur = tabPrenom.Length;
+            Console.WriteLine(longueur);
+
+            int nbDimensions = tabPrenom.Rank;
+            // dans le cas d'un tableau multidimensionnel :
+            long nbElementTotalDim = tabPrenom.LongLength; // retourne nécessairement un long
+            // synchro
+            lock (tabPrenom.SyncRoot) ;
+
+            // Quelques méthodes Array
+            int premier = tabPrenom.GetLowerBound(0); // 0 car le tableau tabPrenom n'a qu'une seule dimension,
+            int dernier = tabPrenom.GetUpperBound(0); // donc index de ligne N° 0
+            Console.WriteLine($"Elements contenus de l'index : {premier} à {dernier}");
+
+            // Array.SetValue(index,index,....)
+            // monTableau[1][2]
+            string[,,] monTableau = new string[5, 5, 5]; // tableau à 3 dimensions
+            monTableau.SetValue("MaValeur",2,3,4);
+            Console.WriteLine("MaValeur = {0}", monTableau.GetValue(2,3,4));
+            // fonction de tri
+            Array.Sort(tabPrenom);
+            for(int index = 0;index<tabPrenom.Length;index++)
+            {
+                Console.WriteLine(tabPrenom[index]);
+            }
+
+            // Array.Clear(leTableau,int32,int32)
+            // syntaxe : static void Clear(tabPrenom)
+            Array.Clear(tabPrenom, 2, 2);
+            Console.WriteLine(tabPrenom[2]);
+            Console.WriteLine(tabPrenom[1]);
         }
         public static int AgeDuCapitaine()
         {

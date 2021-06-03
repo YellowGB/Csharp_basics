@@ -1,0 +1,16 @@
+Z:\C#\Bases\Cours de Xavier\Exercice2\bin\Debug\net5.0\Exercice2.exe
+Z:\C#\Bases\Cours de Xavier\Exercice2\bin\Debug\net5.0\Exercice2.deps.json
+Z:\C#\Bases\Cours de Xavier\Exercice2\bin\Debug\net5.0\Exercice2.runtimeconfig.json
+Z:\C#\Bases\Cours de Xavier\Exercice2\bin\Debug\net5.0\Exercice2.runtimeconfig.dev.json
+Z:\C#\Bases\Cours de Xavier\Exercice2\bin\Debug\net5.0\Exercice2.dll
+Z:\C#\Bases\Cours de Xavier\Exercice2\bin\Debug\net5.0\ref\Exercice2.dll
+Z:\C#\Bases\Cours de Xavier\Exercice2\bin\Debug\net5.0\Exercice2.pdb
+Z:\C#\Bases\Cours de Xavier\Exercice2\obj\Debug\net5.0\Exercice2.csproj.AssemblyReference.cache
+Z:\C#\Bases\Cours de Xavier\Exercice2\obj\Debug\net5.0\Exercice2.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C#\Bases\Cours de Xavier\Exercice2\obj\Debug\net5.0\Exercice2.AssemblyInfoInputs.cache
+Z:\C#\Bases\Cours de Xavier\Exercice2\obj\Debug\net5.0\Exercice2.AssemblyInfo.cs
+Z:\C#\Bases\Cours de Xavier\Exercice2\obj\Debug\net5.0\Exercice2.csproj.CoreCompileInputs.cache
+Z:\C#\Bases\Cours de Xavier\Exercice2\obj\Debug\net5.0\Exercice2.dll
+Z:\C#\Bases\Cours de Xavier\Exercice2\obj\Debug\net5.0\ref\Exercice2.dll
+Z:\C#\Bases\Cours de Xavier\Exercice2\obj\Debug\net5.0\Exercice2.pdb
+Z:\C#\Bases\Cours de Xavier\Exercice2\obj\Debug\net5.0\Exercice2.genruntimeconfig.cache
