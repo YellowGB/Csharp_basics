@@ -1,0 +1,16 @@
+D:\Coding\C#\Vehicules\Vehicules\bin\Debug\net5.0\Vehicules.exe
+D:\Coding\C#\Vehicules\Vehicules\bin\Debug\net5.0\Vehicules.deps.json
+D:\Coding\C#\Vehicules\Vehicules\bin\Debug\net5.0\Vehicules.runtimeconfig.json
+D:\Coding\C#\Vehicules\Vehicules\bin\Debug\net5.0\Vehicules.runtimeconfig.dev.json
+D:\Coding\C#\Vehicules\Vehicules\bin\Debug\net5.0\Vehicules.dll
+D:\Coding\C#\Vehicules\Vehicules\bin\Debug\net5.0\ref\Vehicules.dll
+D:\Coding\C#\Vehicules\Vehicules\bin\Debug\net5.0\Vehicules.pdb
+D:\Coding\C#\Vehicules\Vehicules\obj\Debug\net5.0\Vehicules.csproj.AssemblyReference.cache
+D:\Coding\C#\Vehicules\Vehicules\obj\Debug\net5.0\Vehicules.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\C#\Vehicules\Vehicules\obj\Debug\net5.0\Vehicules.AssemblyInfoInputs.cache
+D:\Coding\C#\Vehicules\Vehicules\obj\Debug\net5.0\Vehicules.AssemblyInfo.cs
+D:\Coding\C#\Vehicules\Vehicules\obj\Debug\net5.0\Vehicules.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Vehicules\Vehicules\obj\Debug\net5.0\Vehicules.dll
+D:\Coding\C#\Vehicules\Vehicules\obj\Debug\net5.0\ref\Vehicules.dll
+D:\Coding\C#\Vehicules\Vehicules\obj\Debug\net5.0\Vehicules.pdb
+D:\Coding\C#\Vehicules\Vehicules\obj\Debug\net5.0\Vehicules.genruntimeconfig.cache
