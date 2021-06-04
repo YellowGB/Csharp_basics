@@ -1,0 +1,16 @@
+Z:\C#\Bases\Cours de Xavier\POO\bin\Debug\net5.0\POO.exe
+Z:\C#\Bases\Cours de Xavier\POO\bin\Debug\net5.0\POO.deps.json
+Z:\C#\Bases\Cours de Xavier\POO\bin\Debug\net5.0\POO.runtimeconfig.json
+Z:\C#\Bases\Cours de Xavier\POO\bin\Debug\net5.0\POO.runtimeconfig.dev.json
+Z:\C#\Bases\Cours de Xavier\POO\bin\Debug\net5.0\POO.dll
+Z:\C#\Bases\Cours de Xavier\POO\bin\Debug\net5.0\ref\POO.dll
+Z:\C#\Bases\Cours de Xavier\POO\bin\Debug\net5.0\POO.pdb
+Z:\C#\Bases\Cours de Xavier\POO\obj\Debug\net5.0\POO.csproj.AssemblyReference.cache
+Z:\C#\Bases\Cours de Xavier\POO\obj\Debug\net5.0\POO.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C#\Bases\Cours de Xavier\POO\obj\Debug\net5.0\POO.AssemblyInfoInputs.cache
+Z:\C#\Bases\Cours de Xavier\POO\obj\Debug\net5.0\POO.AssemblyInfo.cs
+Z:\C#\Bases\Cours de Xavier\POO\obj\Debug\net5.0\POO.csproj.CoreCompileInputs.cache
+Z:\C#\Bases\Cours de Xavier\POO\obj\Debug\net5.0\POO.dll
+Z:\C#\Bases\Cours de Xavier\POO\obj\Debug\net5.0\ref\POO.dll
+Z:\C#\Bases\Cours de Xavier\POO\obj\Debug\net5.0\POO.pdb
+Z:\C#\Bases\Cours de Xavier\POO\obj\Debug\net5.0\POO.genruntimeconfig.cache
