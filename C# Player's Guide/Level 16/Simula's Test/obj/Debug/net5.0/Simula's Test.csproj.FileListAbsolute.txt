@@ -1,0 +1,16 @@
+D:\Coding\C#\Bases\C# Player's Guide\Level 16\Simula's Test\bin\Debug\net5.0\Simula's Test.exe
+D:\Coding\C#\Bases\C# Player's Guide\Level 16\Simula's Test\bin\Debug\net5.0\Simula's Test.deps.json
+D:\Coding\C#\Bases\C# Player's Guide\Level 16\Simula's Test\bin\Debug\net5.0\Simula's Test.runtimeconfig.json
+D:\Coding\C#\Bases\C# Player's Guide\Level 16\Simula's Test\bin\Debug\net5.0\Simula's Test.runtimeconfig.dev.json
+D:\Coding\C#\Bases\C# Player's Guide\Level 16\Simula's Test\bin\Debug\net5.0\Simula's Test.dll
+D:\Coding\C#\Bases\C# Player's Guide\Level 16\Simula's Test\bin\Debug\net5.0\ref\Simula's Test.dll
+D:\Coding\C#\Bases\C# Player's Guide\Level 16\Simula's Test\bin\Debug\net5.0\Simula's Test.pdb
+D:\Coding\C#\Bases\C# Player's Guide\Level 16\Simula's Test\obj\Debug\net5.0\Simula's Test.csproj.AssemblyReference.cache
+D:\Coding\C#\Bases\C# Player's Guide\Level 16\Simula's Test\obj\Debug\net5.0\Simula's Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\C#\Bases\C# Player's Guide\Level 16\Simula's Test\obj\Debug\net5.0\Simula's Test.AssemblyInfoInputs.cache
+D:\Coding\C#\Bases\C# Player's Guide\Level 16\Simula's Test\obj\Debug\net5.0\Simula's Test.AssemblyInfo.cs
+D:\Coding\C#\Bases\C# Player's Guide\Level 16\Simula's Test\obj\Debug\net5.0\Simula's Test.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Bases\C# Player's Guide\Level 16\Simula's Test\obj\Debug\net5.0\Simula's Test.dll
+D:\Coding\C#\Bases\C# Player's Guide\Level 16\Simula's Test\obj\Debug\net5.0\ref\Simula's Test.dll
+D:\Coding\C#\Bases\C# Player's Guide\Level 16\Simula's Test\obj\Debug\net5.0\Simula's Test.pdb
+D:\Coding\C#\Bases\C# Player's Guide\Level 16\Simula's Test\obj\Debug\net5.0\Simula's Test.genruntimeconfig.cache
