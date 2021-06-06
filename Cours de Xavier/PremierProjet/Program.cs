@@ -107,6 +107,25 @@ namespace PremierProjet
             Array.Clear(tabPrenom, 2, 2);
             Console.WriteLine(tabPrenom[2]);
             Console.WriteLine(tabPrenom[1]);
+
+            // Alternative au substring pour un seul caractère
+            string word = "Friend";
+            char character = word[2];
+            Console.WriteLine(character);
+
+            // Convertir en string
+            int ggg = 58;
+            string sentence = "ggg equals " + ggg;
+            Console.WriteLine(sentence);
+            // Dans les plus récentes verions pas besoin de convertir, mais avant il fallait le faire:
+            sentence = "ggg equals " + ggg.ToString();
+            Console.WriteLine(sentence);
+
+            // Deux façons de convertir
+            int ab = int.Parse(Console.ReadLine());
+            Console.WriteLine(ab);
+            ab = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine(ab);
         }
         public static int AgeDuCapitaine()
         {
