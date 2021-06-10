@@ -1,0 +1,10 @@
+D:\Coding\C#\Bases\Cours de Xavier\Bonjour\bin\Debug\Bonjour.exe.config
+D:\Coding\C#\Bases\Cours de Xavier\Bonjour\bin\Debug\Bonjour.exe
+D:\Coding\C#\Bases\Cours de Xavier\Bonjour\bin\Debug\Bonjour.pdb
+D:\Coding\C#\Bases\Cours de Xavier\Bonjour\obj\Debug\Bonjour.csproj.AssemblyReference.cache
+D:\Coding\C#\Bases\Cours de Xavier\Bonjour\obj\Debug\Bonjour.F_Bonjour.resources
+D:\Coding\C#\Bases\Cours de Xavier\Bonjour\obj\Debug\Bonjour.Properties.Resources.resources
+D:\Coding\C#\Bases\Cours de Xavier\Bonjour\obj\Debug\Bonjour.csproj.GenerateResource.cache
+D:\Coding\C#\Bases\Cours de Xavier\Bonjour\obj\Debug\Bonjour.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Bases\Cours de Xavier\Bonjour\obj\Debug\Bonjour.exe
+D:\Coding\C#\Bases\Cours de Xavier\Bonjour\obj\Debug\Bonjour.pdb

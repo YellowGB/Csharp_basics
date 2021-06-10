@@ -1,0 +1,10 @@
+D:\Coding\C#\Bases\Cours de Xavier\Init_WinForm\bin\Debug\Init_WinForm.exe.config
+D:\Coding\C#\Bases\Cours de Xavier\Init_WinForm\bin\Debug\Init_WinForm.exe
+D:\Coding\C#\Bases\Cours de Xavier\Init_WinForm\bin\Debug\Init_WinForm.pdb
+D:\Coding\C#\Bases\Cours de Xavier\Init_WinForm\obj\Debug\Init_WinForm.csproj.AssemblyReference.cache
+D:\Coding\C#\Bases\Cours de Xavier\Init_WinForm\obj\Debug\Init_WinForm.Form1.resources
+D:\Coding\C#\Bases\Cours de Xavier\Init_WinForm\obj\Debug\Init_WinForm.Properties.Resources.resources
+D:\Coding\C#\Bases\Cours de Xavier\Init_WinForm\obj\Debug\Init_WinForm.csproj.GenerateResource.cache
+D:\Coding\C#\Bases\Cours de Xavier\Init_WinForm\obj\Debug\Init_WinForm.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Bases\Cours de Xavier\Init_WinForm\obj\Debug\Init_WinForm.exe
+D:\Coding\C#\Bases\Cours de Xavier\Init_WinForm\obj\Debug\Init_WinForm.pdb
