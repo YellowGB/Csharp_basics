@@ -1,0 +1,10 @@
+D:\Coding\C#\Bases\Cours de Xavier\F_Devin\bin\Debug\F_Devin.exe.config
+D:\Coding\C#\Bases\Cours de Xavier\F_Devin\bin\Debug\F_Devin.exe
+D:\Coding\C#\Bases\Cours de Xavier\F_Devin\bin\Debug\F_Devin.pdb
+D:\Coding\C#\Bases\Cours de Xavier\F_Devin\obj\Debug\F_Devin.F_Devin.resources
+D:\Coding\C#\Bases\Cours de Xavier\F_Devin\obj\Debug\F_Devin.Properties.Resources.resources
+D:\Coding\C#\Bases\Cours de Xavier\F_Devin\obj\Debug\F_Devin.csproj.GenerateResource.cache
+D:\Coding\C#\Bases\Cours de Xavier\F_Devin\obj\Debug\F_Devin.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Bases\Cours de Xavier\F_Devin\obj\Debug\F_Devin.exe
+D:\Coding\C#\Bases\Cours de Xavier\F_Devin\obj\Debug\F_Devin.pdb
+D:\Coding\C#\Bases\Cours de Xavier\F_Devin\obj\Debug\F_Devin.csproj.AssemblyReference.cache
