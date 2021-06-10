@@ -1,0 +1,16 @@
+Z:\C#\Bases\Soutien du soir\1006\obj\Debug\net5.0\1006.csproj.AssemblyReference.cache
+Z:\C#\Bases\Soutien du soir\1006\obj\Debug\net5.0\1006.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C#\Bases\Soutien du soir\1006\obj\Debug\net5.0\1006.AssemblyInfoInputs.cache
+Z:\C#\Bases\Soutien du soir\1006\obj\Debug\net5.0\1006.AssemblyInfo.cs
+Z:\C#\Bases\Soutien du soir\1006\obj\Debug\net5.0\1006.csproj.CoreCompileInputs.cache
+Z:\C#\Bases\Soutien du soir\1006\bin\Debug\net5.0\1006.exe
+Z:\C#\Bases\Soutien du soir\1006\bin\Debug\net5.0\1006.deps.json
+Z:\C#\Bases\Soutien du soir\1006\bin\Debug\net5.0\1006.runtimeconfig.json
+Z:\C#\Bases\Soutien du soir\1006\bin\Debug\net5.0\1006.runtimeconfig.dev.json
+Z:\C#\Bases\Soutien du soir\1006\bin\Debug\net5.0\1006.dll
+Z:\C#\Bases\Soutien du soir\1006\bin\Debug\net5.0\ref\1006.dll
+Z:\C#\Bases\Soutien du soir\1006\bin\Debug\net5.0\1006.pdb
+Z:\C#\Bases\Soutien du soir\1006\obj\Debug\net5.0\1006.dll
+Z:\C#\Bases\Soutien du soir\1006\obj\Debug\net5.0\ref\1006.dll
+Z:\C#\Bases\Soutien du soir\1006\obj\Debug\net5.0\1006.pdb
+Z:\C#\Bases\Soutien du soir\1006\obj\Debug\net5.0\1006.genruntimeconfig.cache

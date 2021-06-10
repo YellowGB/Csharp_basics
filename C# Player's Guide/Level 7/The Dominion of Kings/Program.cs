@@ -13,6 +13,30 @@
     - Afficher le nombre total de points de l'utilisateur.
 */
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Console.WriteLine("Combien de provinces possédez-vous ?");
 int province = Convert.ToInt32(Console.ReadLine());
 

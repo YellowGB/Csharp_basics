@@ -1,0 +1,43 @@
+déclarer variable provinces
+déclarer variable duchés
+déclarer variable domaines
+déclarer variable score
+
+
+afficher "Merci d'entrer le nombre de provinces que vous possédez"
+saisir le nombre de provinces entré
+assigner le nombre de provinces entré à la variable provinces
+
+afficher "Merci d'entrer le nombre de duchés que vous possédez"
+saisir le nombre de duchés entré
+assigner le nombre de duchés entré à la variable duchés
+
+afficher "Merci d'entrer le nombre de domaines que vous possédez"
+saisir le nombre de domaines entré
+assigner le nombre de domaines entré à la variable domaines
+
+
+faire la somme des trois variables multipliées par leur coefficient
+assigner la somme obtenue à la variable score
+
+afficher la variable score
+
+--------------------------------------------------------------
+
+var int provinces;
+var int duches;
+var int domaines;
+var int score;
+
+Afficher("Merci d'entrer le nombre de provinces que vous possédez");
+provinces = Convertir(Saisir(nombre de provinces));
+
+Afficher("Merci d'entrer le nombre de duchés que vous possédez");
+duches = Convertir(Saisir(nombre de duchés));
+
+Afficher("Merci d'entrer le nombre de domaines que vous possédez");
+domaine = Convertir(Saisir(nombre de domaines));
+
+score = provinces * 6 + duches * 3 + domaines;
+
+Afficher(score);
