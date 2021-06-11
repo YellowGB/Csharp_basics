@@ -1,0 +1,13 @@
+D:\Coding\C#\Bases\Cours de Xavier\GestStagiaire\bin\Debug\GestStagiaire.exe.config
+D:\Coding\C#\Bases\Cours de Xavier\GestStagiaire\bin\Debug\GestStagiaire.exe
+D:\Coding\C#\Bases\Cours de Xavier\GestStagiaire\bin\Debug\GestStagiaire.pdb
+D:\Coding\C#\Bases\Cours de Xavier\GestStagiaire\obj\Debug\GestStagiaire.csproj.AssemblyReference.cache
+D:\Coding\C#\Bases\Cours de Xavier\GestStagiaire\obj\Debug\GestStagiaire.FCreationStag.resources
+D:\Coding\C#\Bases\Cours de Xavier\GestStagiaire\obj\Debug\GestStagiaire.FMenu.resources
+D:\Coding\C#\Bases\Cours de Xavier\GestStagiaire\obj\Debug\GestStagiaire.Properties.Resources.resources
+D:\Coding\C#\Bases\Cours de Xavier\GestStagiaire\obj\Debug\GestStagiaire.csproj.GenerateResource.cache
+D:\Coding\C#\Bases\Cours de Xavier\GestStagiaire\obj\Debug\GestStagiaire.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Bases\Cours de Xavier\GestStagiaire\obj\Debug\GestStagiaire.exe
+D:\Coding\C#\Bases\Cours de Xavier\GestStagiaire\obj\Debug\GestStagiaire.pdb
+D:\Coding\C#\Bases\Cours de Xavier\GestStagiaire\obj\Debug\GestStagiaire.F_Affiche.resources
+D:\Coding\C#\Bases\Cours de Xavier\GestStagiaire\obj\Debug\GestStagiaire.F_Choix.resources
