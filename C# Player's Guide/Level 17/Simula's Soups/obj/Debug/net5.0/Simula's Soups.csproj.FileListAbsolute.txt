@@ -1,0 +1,16 @@
+D:\Coding\C#\Bases\C# Player's Guide\Level 17\Simula's Soups\bin\Debug\net5.0\Simula's Soups.exe
+D:\Coding\C#\Bases\C# Player's Guide\Level 17\Simula's Soups\bin\Debug\net5.0\Simula's Soups.deps.json
+D:\Coding\C#\Bases\C# Player's Guide\Level 17\Simula's Soups\bin\Debug\net5.0\Simula's Soups.runtimeconfig.json
+D:\Coding\C#\Bases\C# Player's Guide\Level 17\Simula's Soups\bin\Debug\net5.0\Simula's Soups.runtimeconfig.dev.json
+D:\Coding\C#\Bases\C# Player's Guide\Level 17\Simula's Soups\bin\Debug\net5.0\Simula's Soups.dll
+D:\Coding\C#\Bases\C# Player's Guide\Level 17\Simula's Soups\bin\Debug\net5.0\ref\Simula's Soups.dll
+D:\Coding\C#\Bases\C# Player's Guide\Level 17\Simula's Soups\bin\Debug\net5.0\Simula's Soups.pdb
+D:\Coding\C#\Bases\C# Player's Guide\Level 17\Simula's Soups\obj\Debug\net5.0\Simula's Soups.csproj.AssemblyReference.cache
+D:\Coding\C#\Bases\C# Player's Guide\Level 17\Simula's Soups\obj\Debug\net5.0\Simula's Soups.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\C#\Bases\C# Player's Guide\Level 17\Simula's Soups\obj\Debug\net5.0\Simula's Soups.AssemblyInfoInputs.cache
+D:\Coding\C#\Bases\C# Player's Guide\Level 17\Simula's Soups\obj\Debug\net5.0\Simula's Soups.AssemblyInfo.cs
+D:\Coding\C#\Bases\C# Player's Guide\Level 17\Simula's Soups\obj\Debug\net5.0\Simula's Soups.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Bases\C# Player's Guide\Level 17\Simula's Soups\obj\Debug\net5.0\Simula's Soups.dll
+D:\Coding\C#\Bases\C# Player's Guide\Level 17\Simula's Soups\obj\Debug\net5.0\ref\Simula's Soups.dll
+D:\Coding\C#\Bases\C# Player's Guide\Level 17\Simula's Soups\obj\Debug\net5.0\Simula's Soups.pdb
+D:\Coding\C#\Bases\C# Player's Guide\Level 17\Simula's Soups\obj\Debug\net5.0\Simula's Soups.genruntimeconfig.cache
