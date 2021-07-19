@@ -1,0 +1,16 @@
+Z:\C#\Bases\C# Player's Guide\Level 18\Vin Fletcher's Arrows\bin\Debug\net5.0\Vin Fletcher's Arrows.exe
+Z:\C#\Bases\C# Player's Guide\Level 18\Vin Fletcher's Arrows\bin\Debug\net5.0\Vin Fletcher's Arrows.deps.json
+Z:\C#\Bases\C# Player's Guide\Level 18\Vin Fletcher's Arrows\bin\Debug\net5.0\Vin Fletcher's Arrows.runtimeconfig.json
+Z:\C#\Bases\C# Player's Guide\Level 18\Vin Fletcher's Arrows\bin\Debug\net5.0\Vin Fletcher's Arrows.runtimeconfig.dev.json
+Z:\C#\Bases\C# Player's Guide\Level 18\Vin Fletcher's Arrows\bin\Debug\net5.0\Vin Fletcher's Arrows.dll
+Z:\C#\Bases\C# Player's Guide\Level 18\Vin Fletcher's Arrows\bin\Debug\net5.0\ref\Vin Fletcher's Arrows.dll
+Z:\C#\Bases\C# Player's Guide\Level 18\Vin Fletcher's Arrows\bin\Debug\net5.0\Vin Fletcher's Arrows.pdb
+Z:\C#\Bases\C# Player's Guide\Level 18\Vin Fletcher's Arrows\obj\Debug\net5.0\Vin Fletcher's Arrows.csproj.AssemblyReference.cache
+Z:\C#\Bases\C# Player's Guide\Level 18\Vin Fletcher's Arrows\obj\Debug\net5.0\Vin Fletcher's Arrows.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C#\Bases\C# Player's Guide\Level 18\Vin Fletcher's Arrows\obj\Debug\net5.0\Vin Fletcher's Arrows.AssemblyInfoInputs.cache
+Z:\C#\Bases\C# Player's Guide\Level 18\Vin Fletcher's Arrows\obj\Debug\net5.0\Vin Fletcher's Arrows.AssemblyInfo.cs
+Z:\C#\Bases\C# Player's Guide\Level 18\Vin Fletcher's Arrows\obj\Debug\net5.0\Vin Fletcher's Arrows.csproj.CoreCompileInputs.cache
+Z:\C#\Bases\C# Player's Guide\Level 18\Vin Fletcher's Arrows\obj\Debug\net5.0\Vin Fletcher's Arrows.dll
+Z:\C#\Bases\C# Player's Guide\Level 18\Vin Fletcher's Arrows\obj\Debug\net5.0\ref\Vin Fletcher's Arrows.dll
+Z:\C#\Bases\C# Player's Guide\Level 18\Vin Fletcher's Arrows\obj\Debug\net5.0\Vin Fletcher's Arrows.pdb
+Z:\C#\Bases\C# Player's Guide\Level 18\Vin Fletcher's Arrows\obj\Debug\net5.0\Vin Fletcher's Arrows.genruntimeconfig.cache
